@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 GitHub Actions – Day-wise Learning Repository
 
 > From Git basics to **production-grade CI/CD pipelines** using GitHub Actions.
@@ -110,5 +110,3 @@ Each day includes:
 
 📌 **Status:** 🚧 Learning in progress (updated day-wise)
 =======
->>>>>>> origin/main
-
